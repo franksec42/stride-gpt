@@ -11,3 +11,5 @@ build/
 dist/
 *.egg-info/
 *.egg
+/vuln_vector_descr
+/results
